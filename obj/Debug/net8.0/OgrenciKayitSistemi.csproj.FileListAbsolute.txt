@@ -1,0 +1,14 @@
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\net8.0\OgrenciKayitSistemi.exe
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\net8.0\OgrenciKayitSistemi.deps.json
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\net8.0\OgrenciKayitSistemi.runtimeconfig.json
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\net8.0\OgrenciKayitSistemi.dll
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\net8.0\OgrenciKayitSistemi.pdb
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.AssemblyInfo.cs
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.dll
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\refint\OgrenciKayitSistemi.dll
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.pdb
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\OgrenciKayitSistemi.genruntimeconfig.cache
+C:\Users\yunus\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\net8.0\ref\OgrenciKayitSistemi.dll

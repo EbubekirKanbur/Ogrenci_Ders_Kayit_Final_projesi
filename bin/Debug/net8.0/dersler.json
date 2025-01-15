@@ -1,0 +1,18 @@
+[
+  {
+    "DersAdi": "veri analitigi",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Bolum": "bilgisayar programciligi",
+      "Ad": "tanju",
+      "Soyad": "sirmen"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": 20220108062,
+        "Ad": "yunus",
+        "Soyad": "kozlubel"
+      }
+    ]
+  }
+]
