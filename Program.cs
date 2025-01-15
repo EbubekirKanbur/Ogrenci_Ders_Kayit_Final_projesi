@@ -124,9 +124,9 @@ public class Program
         while (devam)
         {
             Console.Clear();
-            Console.WriteLine("1. Öğretim Görevlisi Tanımla");
-            Console.WriteLine("2. Ders Tanımla");
-            Console.WriteLine("3. Öğrenci Tanımla");
+            Console.WriteLine("1. Öğretim Görevlisi kaydet");
+            Console.WriteLine("2. Ders kaydet");
+            Console.WriteLine("3. Öğrenci kaydet");
             Console.WriteLine("4. Öğrenciyi Derse Kaydet");
             Console.WriteLine("5. Ders Bilgilerini Görüntüle");
             Console.WriteLine("6. Verileri Kaydet ve Çıkış");
